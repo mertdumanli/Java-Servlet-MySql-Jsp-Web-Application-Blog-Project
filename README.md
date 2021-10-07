@@ -13,8 +13,8 @@ It is a **Java** project where administrators can add new articles in the backgr
 ## Demo Account
 | :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
-| **```serkan@mail.com```**| **1234**|
-| **```erkan@mail.com```**| **1234**|
+| **``serkan@mail.com``**| **1234**|
+| **``erkan@mail.com``**| **1234**|
 
 ## Application Images
 <p>
