@@ -1,8 +1,8 @@
 # Java Servlet MySql Jsp Web Application Blog Project
 
-*Arka planda yöneticilerin yeni makaleler ekleyebildiği, önceden kendi yazdığı makaleyi düzenleyebildiği veya kendi ekledikleri makaleleri silebildiği Java projedir. Müşteri isteklerinin alınabildiği iletişim, tasarımcı hakkında bilgilerin bulunduğu ile bütün makalelerin tarih sırasına göre sıralandığı ana sayfa ve makalenin tamamının okunabildiği gibi sayfalarda mevcuttur. Servlet yapısı kullanılmıştır, MySQL ile veri tabanında bilgiler saklanmıştır.
+* Arka planda yöneticilerin yeni makaleler ekleyebildiği, önceden kendi yazdığı makaleyi düzenleyebildiği veya kendi ekledikleri makaleleri silebildiği Java projedir. Müşteri isteklerinin alınabildiği iletişim, tasarımcı hakkında bilgilerin bulunduğu ile bütün makalelerin tarih sırasına göre sıralandığı ana sayfa ve makalenin tamamının okunabildiği gibi sayfalarda mevcuttur. Servlet yapısı kullanılmıştır, MySQL ile veri tabanında bilgiler saklanmıştır.
 
-*It is a **Java** project where administrators can add new articles in the background, edit the article they wrote before or delete the articles they have added. Communication where customer requests can be received, information about the designer, the home page where all articles are listed in chronological order, and the entire article can be read. **Servlet** structure is used, information is stored in database with **MySQL**. Java Server Page (**JSP**) is used to place Java commands in HTML codes.
+* It is a **Java** project where administrators can add new articles in the background, edit the article they wrote before or delete the articles they have added. Communication where customer requests can be received, information about the designer, the home page where all articles are listed in chronological order, and the entire article can be read. **Servlet** structure is used, information is stored in database with **MySQL**. Java Server Page (**JSP**) is used to place Java commands in HTML codes.
 
 ## Used Technologies
 | Languages & Abilities |
