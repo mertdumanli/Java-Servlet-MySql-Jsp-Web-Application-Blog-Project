@@ -12,7 +12,7 @@
 |         JSP           |
 |        MySql          |
 
-## Demo Accounts
+## Available Demo Accounts
 | :closed_lock_with_key: Username | :old_key: Password |
 |----------|----------|
 | **``serkan@mail.com``**| **1234**|
