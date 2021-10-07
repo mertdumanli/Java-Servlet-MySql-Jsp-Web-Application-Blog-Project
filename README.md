@@ -1,6 +1,6 @@
-# Java Servlet MySql Web Application Blog Project
+# Java Servlet MySql JSP Web Application Blog Project
 
-This application is designed to follow-up water sales. It aims to follow-up customers' information and orders. This program is written in **Java** and **SQLite** is used as the database. **JFrame** was used in the interface design. **Netbeans** was chosen as the development environment.
+It is a **Java** project where administrators can add new articles in the background, edit the article they wrote before or delete the articles they have added. Communication where customer requests can be received, information about the designer, the home page where all articles are listed in chronological order, and the entire article can be read. **Servlet** structure is used, information is stored in database with **MySQL**.
 
 ## Used Technologies
 | Languages & Abilities |
