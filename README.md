@@ -1,1 +1,1 @@
-# Java-Servlet-MySql-Blog-Project
+# Java Servlet MySql Blog Project
